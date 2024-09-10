@@ -15,7 +15,7 @@
 ---
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="70%" align="left">
 
 - 🌱 I’m currently learning **OOP with Java**
 
